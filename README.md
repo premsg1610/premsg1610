@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Spring boot**
 
-- 👨‍💻 All of my projects are available at [https://premsg1610.github.io/Portfolio/](https://premsg1610.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://premsg1610.github.io/Prem-Sagar-Gupta--Portfolio/](https://premsg1610.github.io/Prem-Sagar-Gupta--Portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **premsgupta1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VaU2FNR8r9ZXukgf5_KEe8zJOeBqA1r3/view?usp=sharing](https://drive.google.com/file/d/1VaU2FNR8r9ZXukgf5_KEe8zJOeBqA1r3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1--fM0OXGJJkVw-pedtY4vuGucj6sjELo/view?usp=sharing](https://drive.google.com/file/d/1--fM0OXGJJkVw-pedtY4vuGucj6sjELo/view?usp=sharing)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
