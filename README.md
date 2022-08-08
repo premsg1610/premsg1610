@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://premsg1610.github.io/Prem-Sagar-Gupta--Portfolio/](https://premsg1610.github.io/Prem-Sagar-Gupta--Portfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
 - 💬 Ask me about **Java, Spring boot, DSA**
 
