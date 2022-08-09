@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Sagar Gupta</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer. Checkout my repositories to see my projects.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premsg1610&label=Profile%20views&color=0e75b6&style=flat" alt="premsg1610" /> </p>
 
