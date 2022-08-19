@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Spring boot**
 
-- 👨‍💻 All of my projects are available at [https://premsg1610.github.io/Portfolio/](https://premsg1610.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://premsg1610.github.io/PremSagarGuptaPortfolio/](https://premsg1610.github.io/PremSagarGuptaPortfolio/)
 
 - 📝 I write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
