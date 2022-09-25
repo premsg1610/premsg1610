@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **premsgupta1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1XLHmuYFN_YG26ldpZCA7MrP2SUpTau3s?usp=sharing](https://drive.google.com/drive/folders/1XLHmuYFN_YG26ldpZCA7MrP2SUpTau3s?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AUb89KLLPt0caG3TiIWRKvgA36Z3vkN2/view?usp=sharing](https://drive.google.com/file/d/1AUb89KLLPt0caG3TiIWRKvgA36Z3vkN2/view?usp=sharing)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
